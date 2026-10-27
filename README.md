@@ -1,13 +1,22 @@
-# HAILSTONES — ENTER THE DARK
+<!-- WELCOME BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,0B0000,8B0000,FF0000&height=240&section=header&text=HAILSTONES&fontSize=68&fontColor=FF2020&animation=fadeIn&fontAlignY=38&desc=CODE%20IN%20THE%20DARK.%20BUILD%20WITHOUT%20FEAR.&descAlignY=60&descSize=16" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:250000,100:8B0000&height=220&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=HAILSTONES%20%7C%20YOU%27RE%20WELCOME%20HERE&descSize=17&descAlignY=65"
+    width="100%"
+    alt="Welcome to Hailstones' GitHub profile"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=21&pause=1100&color=FF2020&background=00000000&center=true&vCenter=true&width=750&lines=ENTER+THE+GHOST+UNIVERSE;NO+LIGHT.+NO+MERCY.+JUST+CODE.;BUILDING+GAMES.+EXPLORING+AI.;SURVIVE+THE+CODE.+MASTER+THE+MISSION." alt="Hailstones typing animation" />
+  <img src="https://img.shields.io/badge/ENTER_THE_WORLD_OF-HAILSTONES-990000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-HAILSTONES-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPERATION-GHOST%20CTS--4-FF000
+  **Welcome, visitor.** 👋
+
+  Explore my projects, discover the GHOST CTS game series, and follow my journey in technology.
+</p>
+
+---
+
